@@ -1,1 +1,3 @@
-Cubaria Blog
+---
+layout: home
+---
