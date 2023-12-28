@@ -1,6 +1,7 @@
 ---
+title: no way, a new blog?
 layout: post
-custom_js: mouse_coords
 ---
 
-This post is strange. It also has some custom js.
+#WHAT? A NEW BLOG?
+testt
